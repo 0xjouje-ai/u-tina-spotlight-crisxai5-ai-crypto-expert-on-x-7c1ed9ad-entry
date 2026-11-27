@@ -131,3 +131,16 @@ one a reward is claimed to, and it must be on your account.
   same bytes.
 - The rules give how many submissions you may make a day and in all. Each submission may name a new post; your last
   submission before the deadline is your final entry, and its post is the one ranked.
+
+## Entry notes
+
+This entry's post is a public spotlight introducing @crisxai5, AI & Crypto
+Expert on X, posted by Jouje from his public X account (@0xjouje).
+
+- Post: https://x.com/0xjouje/status/2126259173763826174
+- Posted: 27 November 2026, 17:17 WIB
+- Graphic: a dark navy 1080x1080 card headlined "@crisxai5 / AI & Crypto
+  Expert", with three rows (AI Agents / Crypto Insights / Web3 Innovation)
+  and the line "Follow now · x.com/crisxai5".
+- The post stays public until the results are out; places go by likes +
+  reposts + quotes at the deadline reading (deadline 27 Nov 2026, 18:35 WIB).
